@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](Bild1.jpg "Header")](https://some-url.dev/)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dennis-breuer-838260134/"><img height="30" src="Bild1.jpg"</a>;
