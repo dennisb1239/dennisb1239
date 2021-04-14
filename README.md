@@ -4,7 +4,10 @@
   <a href="https://www.linkedin.com/in/dennis-breuer-838260134/"><img height="30" src="icons/linkedin_icon.JPG"</a>
 </p>
 
-## Hello, welcome to my GitHub profile!
+## Welcome to my GitHub profile!
+
+
+
 <hr>
 <!--
 **dennisb1239/dennisb1239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
