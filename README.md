@@ -1,4 +1,4 @@
-[![Header](icons/h.JPG "Header")]
+[![Header](icons/h.JPG "Header")]()
 
 ## Welcome to my GitHub profile!
 
