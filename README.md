@@ -1,4 +1,4 @@
-[![Header](icons/header.jpg "Header")]()
+[![Header](icons/h.jpg "Header")]()
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dennis-breuer-838260134/"><img height="30" src="icons/linkedin_icon.JPG"</a>
