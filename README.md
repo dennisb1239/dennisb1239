@@ -2,11 +2,6 @@
 
 ## Welcome to my GitHub profile!
 
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dennis-breuer-838260134/"><img height="40" src="icons/linkedin_icon.JPG"</a>
-</p>
-
 <hr>
 
 Here are some ideas to get you started:
