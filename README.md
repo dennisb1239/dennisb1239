@@ -2,8 +2,6 @@
 
 ## Welcome to my GitHub profile!
 
-<hr>
-
 My name is Dennis Breuer, and on this page I'd like to present a bit of my work on different topics related to Data Science and Artificial Intelligence.
 Today I'm using my account for personal projects only, but I'm looking forward to expand this open-source oder professional activities as well. 
 
