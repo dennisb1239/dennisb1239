@@ -4,17 +4,20 @@
 
 <hr>
 
-Here are some ideas to get you started:
+My name is Dennis Breuer, and on this page I'd like to present a little of my work on different topics related to Data Science and Artificial Intelligence.
+Today I'm using my account for personal projects only, but I'm looking forward to expand this open-source oder professional activities as well. 
 
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
+-  I’m currently working on finishing my master thesis on information extraction from patent applications with BERT
+-  I’m currently learning C++ to be able to write code in another programming language 
+-  I’m looking to collaborate on 
 -  I’m looking for help with ...
- Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- How to reach me: via [LinkedIn](https://www.linkedin.com/in/dennis-breuer-838260134/)
+
+<hr>
+Past and current projects: 
+
+- [Capstone project for Data Science course: "Where to move due to Brexit?"](https://dennisb1239.github.io/IBM-Data-Science-Capstone-project/)
+
 
 <hr>
 
