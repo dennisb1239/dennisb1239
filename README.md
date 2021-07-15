@@ -5,9 +5,7 @@
 My name is Dennis Breuer, and on this page I'd like to present a bit of my work on different topics related to Data Science and Artificial Intelligence.
 Today I'm using my account for personal projects only, but I'm looking forward to expand this open-source oder professional activities as well. 
 
--  I’m currently working on finishing my master thesis on information extraction from patent applications with BERT
--  I’m currently learning C++ to be able to write code in another programming language 
--  I’m looking to collaborate on open source or professional projects related to AI in general, and specifically NLP
+-  I’m currently learning MLOps, especially deploying trained models through Websites and Apps 
 -  I’m looking for some mentoring to grow into an AI engineer role
 - How to reach me: via [LinkedIn](https://www.linkedin.com/in/dennis-breuer-838260134/)
 
@@ -15,6 +13,7 @@ Today I'm using my account for personal projects only, but I'm looking forward t
 Past and current projects: 
 
 - [Capstone project for Data Science course: "Where to move due to Brexit?"](https://dennisb1239.github.io/IBM-Data-Science-Capstone-project/)
+- Master thesis: Information extraction from patent applications with BERT
 
 
 <hr>
