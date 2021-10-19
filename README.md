@@ -5,7 +5,7 @@
 My name is Dennis Breuer, and on this page I'd like to present a bit of my work on different topics related to Data Science and Artificial Intelligence.
 Today I'm using my account for personal projects only, but I'm looking forward to expand this open-source or professional activities as well. 
 
--  I’m currently learning MLOps, especially deploying trained models through Websites and Apps 
+-  I’m currently taking a specialization on cloud computing  
 -  I’m looking for some mentoring to grow into an AI engineer role
 - How to reach me: via [LinkedIn](https://www.linkedin.com/in/dennis-breuer-838260134/)
 
